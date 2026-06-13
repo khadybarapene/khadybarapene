@@ -49,7 +49,6 @@ Titulaire d'une Licence en Systèmes Réseaux et Télécommunications (Universit
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense_/_Snort-212121?style=flat-square&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-00ADEF?style=flat-square&logoColor=white)
-![Nagios](https://img.shields.io/badge/Nagios_/_Zabbix-EE0000?style=flat-square&logoColor=white)
 
 **Administration Systèmes**
 
