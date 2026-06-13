@@ -1,6 +1,6 @@
 <div align="center">
 
-# Khady Pène
+# Khady PENE
 ### Technicienne Supérieure en Systèmes Réseaux & Télécommunications
 ### Formation Cloud Practitioner AWS · Spécialisation DevOps & Cybersécurité
 
