@@ -1,8 +1,10 @@
+
 <div align="center">
 
-# Khady Pène
-### Technicienne Supérieure en Systèmes Réseaux & Télécommunications
-### Formation Cloud Practitioner AWS · Spécialisation DevOps & Cybersécurité
+# ✦ Khady Pène
+
+### 🛡️ Technicienne Supérieure · Systèmes Réseaux & Télécommunications
+### ☁️ Cloud AWS · DevOps · Cybersécurité
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khadypene267@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khadybarapene)
@@ -13,17 +15,17 @@
 
 ---
 
-## À propos
+## 👩‍💻 À propos
 
-Titulaire d'une Licence en Systèmes Réseaux et Télécommunications (Université Alioune Diop de Bambey), je me spécialise en Cloud et DevOps. Mon parcours couvre la cybersécurité, l'administration systèmes & réseaux, la conteneurisation et l'automatisation des infrastructures.
+> Titulaire d'une Licence en Systèmes Réseaux & Télécommunications (Université Alioune Diop de Bambey), spécialisée en Cloud et DevOps. Mon parcours couvre la cybersécurité, l'administration systèmes & réseaux, la conteneurisation et l'automatisation des infrastructures.
 
 > *"Automate everything you repeat. Secure everything you build."*
 
 ---
 
-## 🛠️ Compétences techniques
+## 🛠️ Stack technique
 
-**Cloud AWS**
+**☁️ Cloud AWS**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
@@ -34,7 +36,7 @@ Titulaire d'une Licence en Systèmes Réseaux et Télécommunications (Universit
 ![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
 ![Lightsail](https://img.shields.io/badge/Lightsail-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-**DevOps**
+**⚙️ DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -42,7 +44,7 @@ Titulaire d'une Licence en Systèmes Réseaux et Télécommunications (Universit
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
-**Cybersécurité & Réseaux**
+**🔐 Cybersécurité & Réseaux**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-005BBB?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -51,13 +53,13 @@ Titulaire d'une Licence en Systèmes Réseaux et Télécommunications (Universit
 ![GNS3](https://img.shields.io/badge/GNS3-00ADEF?style=flat-square&logoColor=white)
 ![Nagios](https://img.shields.io/badge/Nagios_/_Zabbix-EE0000?style=flat-square&logoColor=white)
 
-**Administration Systèmes**
+**🖥️ Administration Systèmes**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
-**Stack applicative**
+**📦 Stack applicative**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -67,25 +69,25 @@ Titulaire d'une Licence en Systèmes Réseaux et Télécommunications (Universit
 
 ---
 
-## 📦 Projets phares
+## 🚀 Projets phares
 
 ### 🔐 Mémoire de fin d'études — Solution XDR & SIEM avec Wazuh
 > Mise en place d'une solution de sécurité proactive pour la détection d'intrusions et la gestion des charges de travail Cloud
 
-- Déploiement complet : Wazuh Manager + Indexer (OpenSearch) + Dashboard
-- Intégration AWS CloudTrail & CloudWatch pour la surveillance cloud
-- Intégration IDS Suricata pour la détection d'intrusions réseau
-- Détection d'attaques : brute force SSH, injection SQL, surveillance d'intégrité des fichiers
-- Réponse automatisée aux incidents
+- ✅ Déploiement complet : Wazuh Manager + Indexer (OpenSearch) + Dashboard
+- ✅ Intégration AWS CloudTrail & CloudWatch pour la surveillance cloud
+- ✅ Intégration IDS Suricata pour la détection d'intrusions réseau
+- ✅ Détection d'attaques : brute force SSH, injection SQL, surveillance d'intégrité des fichiers
+- ✅ Réponse automatisée aux incidents
 
 ---
 
 ### 🚀 DevOps Portfolio — Pipeline CI/CD complet
 > Dockerisation d'une application React + Node.js + MongoDB avec pipeline Jenkins automatisé
 
-- Pipeline Jenkins multi-étapes : build → test → analyse SonarQube → deploy
-- Images publiées sur Docker Hub (`khady2026/portfolio-api`, `portfolio-react`, `portfolio-mongo`)
-- Déploiement Kubernetes sur Minikube (namespace `portfolio`, StatefulSet MongoDB)
+- ✅ Pipeline Jenkins multi-étapes : `build` → `test` → `analyse SonarQube` → `deploy`
+- ✅ Images publiées sur Docker Hub (`khady2026/portfolio-api`, `portfolio-react`, `portfolio-mongo`)
+- ✅ Déploiement Kubernetes sur Minikube (namespace `portfolio`, StatefulSet MongoDB)
 
 [![Repo](https://img.shields.io/badge/Voir_le_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khadybarapene/Devops_porfolio)
 
@@ -94,28 +96,36 @@ Titulaire d'une Licence en Systèmes Réseaux et Télécommunications (Universit
 ### 🌐 Infrastructure Réseau Sécurisée
 > Conception et déploiement d'une infrastructure réseau avec politique de sécurité
 
-- Configuration ACL (Access Control Lists) sur routeurs et commutateurs
-- Mise en place et configuration de Snort sous pfSense
-- Utilisation de HTTPS avec Apache2 et certificats Let's Encrypt
-- Outils : GNS3, Cisco Packet Tracer, Wireshark
+- ✅ Configuration ACL sur routeurs et commutateurs
+- ✅ Mise en place et configuration de Snort sous pfSense
+- ✅ HTTPS avec Apache2 et certificats Let's Encrypt
+- ✅ Outils : GNS3, Cisco Packet Tracer, Wireshark
 
 ---
-
-
 
 ## 🎓 Formation
 
 | Période | Formation | Établissement |
 |---|---|---|
-| 2026 → en cours | AWS Cloud Practitioner · Cloud & DevOps | Formation professionnelle |
-| 2022 – 2025 | Licence Systèmes Réseaux & Télécommunications | Université Alioune Diop de Bambey |
-| 2021 | Baccalauréat Série S2 | Lycée de Keur Massar |
+| 2026 → en cours | ☁️ AWS Cloud Practitioner · Cloud & DevOps | Formation professionnelle |
+| 2022 – 2025 | 🎓 Licence Systèmes Réseaux & Télécommunications | Université Alioune Diop de Bambey |
+| 2021 | 📜 Baccalauréat Série S2 | Lycée de Keur Massar |
 
 ---
 
 ## 🌍 Langues
 
-Français (courant) · Wolof (courant) · Anglais (scolaire)
+`🇫🇷 Français` · `🇸🇳 Wolof` · `🇬🇧 Anglais`
+
+---
+
+## 🐍 Snake — mes contributions GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khadybarapene/khadybarapene/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khadybarapene/khadybarapene/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/khadybarapene/khadybarapene/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -126,5 +136,5 @@ Français (courant) · Wolof (courant) · Anglais (scolaire)
 ---
 
 <div align="center">
-<sub>khadybarapene · 2025</sub>
+<sub>✦ khadybarapene · 2025</sub>
 </div>
