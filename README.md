@@ -102,17 +102,6 @@ Titulaire d'une Licence en Systèmes Réseaux et Télécommunications (Universit
 ---
 
 
-## 📊 Stats GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadybarapene&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadybarapene&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff)
-
-</div>
-
----
 
 ## 🎓 Formation
 
